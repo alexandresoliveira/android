@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="text_view_binary">Binary</string>
+    <string name="text_view_decimal">Decimal</string>
+    <string name="button_converter">Converter</string>
+    <string name="text_view_binary_hint">Put binary number with no spaces</string>
+    <string name="text_view_number_hint">Put decimal number with no spaces</string>
+    <string name="image_view_top_wave">Top Wave</string>
+    <string name="image_view_botton_wave">Botton wave</string>
+    <string name="image_view_arrow_converter">Arrow converter</string>
+    <string name="image_view_app_icon">App icon</string>
+</resources>
